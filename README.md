@@ -1,2 +1,2 @@
-<div> <img width=33% src="./assets/toast_notification.png" alt="image"> </div>
-<div> <div width=33%>Toast Notification</div></div>
+<div> <img width=50% src="./assets/toast_notification.png" alt="image"> </div>
+<div> <div width=50%>Toast Notification</div></div>
